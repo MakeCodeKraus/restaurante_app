@@ -1,16 +1,11 @@
-# book_app
+# App practica Restaurante.
 
 A new Flutter project.
 
-## Getting Started
+## Referencias
 
-This project is a starting point for a Flutter application.
+Este proyecto es unicamente con fines academicos para entender el funcionamiento de Flutter, basado principalmente en el siguiente ejemplo.
+https://www.youtube.com/watch?v=ACdraZRANaU&t=191s&ab_channel=TheFlutterWay
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Autor
+Estefanía López Varelas
